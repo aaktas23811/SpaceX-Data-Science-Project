@@ -3,3 +3,5 @@
 # Capstone project coursera
 
 print("samet aktas")
+
+print("First Commit")
